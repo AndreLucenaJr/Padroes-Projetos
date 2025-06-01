@@ -7,5 +7,4 @@ Arquitetura e Projetos de Software
 - André de Oliveira Lucena Junior  
 - Diego Aragão Dutra Borges
 
-```bash
 
